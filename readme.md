@@ -25,4 +25,6 @@ Search for Movies and Add them to custom lists.
   `npx webpack-dev-server --host 0.0.0.0`
 - Open Browser and goto URL shown  (localhost:8080)
 
-##### If 'npx' doesnt work please install 
+##### If 'npx' doesnt work please install
+
+### DEMO: https://trinadhm.github.io/movie-app/
