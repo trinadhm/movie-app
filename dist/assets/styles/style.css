@@ -1,0 +1,49 @@
+.row {
+  background: #f8f9fa;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #17a2b8;
+  border-radius: 20px;
+}
+
+
+.poster img {
+  max-width: 100%;
+}
+
+.mov-title {
+  padding-top: 20px;
+}
+
+.ratings .r-name  {
+  font-weight: bold;
+}
+
+.ratings .r-value + .r-name {
+  padding-left: 30px;
+}
+.footer {
+  height: 60px;
+  text-align: right;
+}
+
+.footer img {
+  height: 100%;
+}
+
+.add-list .alert-info {
+  font-size: .65em;
+}
+
+.add-list .alert-danger {
+  background: transparent;
+}
+
+.in-lists .list-item {
+  font-size: 85%;
+}
+
+.in-lists .list-item .delete {
+  font-size: .75em;
+  float: none;
+}
